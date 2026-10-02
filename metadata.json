@@ -1,0 +1,6 @@
+{
+  "name": "RANGER-X Tactical Telemetry Console",
+  "description": "Spider-Man web-shooter inspired wildlife-rescue wearable engineering concept and field telemetry simulator for wildland officers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
